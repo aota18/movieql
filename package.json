@@ -7,7 +7,7 @@
   "author": "aota18",
   "license": "AOTA",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "graphql-yoga": "^1.18.3",
     "node-fetch": "^2.6.0"
   },
